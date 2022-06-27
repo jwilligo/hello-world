@@ -1,0 +1,2 @@
+echo Hello world
+echo Git text file
